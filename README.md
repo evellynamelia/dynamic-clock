@@ -26,3 +26,5 @@ Este repositório apresenta um relógio dinâmico que exibe a hora atual em um f
 3. O relógio começará a exibir a hora atual em tempo real.
 
 **Capturas de Tela:**
+
+ <img src="WebAnime - OnePiece/Captura de tela 2023-08-27 231846.png" alt="Tela Principal" width="1066px" height="568px">
