@@ -27,4 +27,4 @@ Este repositório apresenta um relógio dinâmico que exibe a hora atual em um f
 
 **Capturas de Tela:**
 
- <img src="WebAnime - OnePiece/Captura de tela 2023-08-27 231846.png" alt="Tela Principal" width="1066px" height="568px">
+ <img src="dynamic-clock/Captura de tela 2023-10-04 003046.png" alt="Relogio" width="1066px" height="568px">
