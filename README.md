@@ -27,4 +27,4 @@ Este repositório apresenta um relógio dinâmico que exibe a hora atual em um f
 
 **Capturas de Tela:**
 
- <img src="dynamic-clock/Captura de tela 2023-10-04 003046.png" alt="Relogio" width="1000px" height="568px">
+ <img src="dynamic-clock/Captura de tela 2023-10-04 003046.png" alt="Relogio" width="990px" height="560px">
